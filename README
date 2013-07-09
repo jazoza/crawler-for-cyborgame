@@ -1,0 +1,7 @@
+A simple Python analysis tool for play scripts. It takes a text file as input, and writes a text file as output. 
+
+It prompts user for input and searches for the string in the whole text. It can display all lines that a person is saying or all scene introductions. 
+
+It should create a dictionary of scene introductions which can be browsed through choronologically.
+
+Created in SINLAB for the Cyborgame project in collaboration with Gildas Milin, April-July 2013
