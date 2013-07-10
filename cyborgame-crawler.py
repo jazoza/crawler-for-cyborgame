@@ -11,23 +11,20 @@ try:
 except IOError:
     pass
 
-def crawler(word, wdict):
-    for i, line in enumerate(script):
-    #    print line 
-        if word in line:
-            #print "found in line: ", i
-            key=word+" "+str(i)
-            if choice>4: #stupid way
-                dialogue=line.upper()
-            elif "(" in line and "e)" not in line:
-                dialogue=script[i+2].upper()
-            else:
-                dialogue=script[i+1].strip('\n').upper()
-            print "dialogue", dialogue
-            fout.write(dialogue+"\n\n")
-            fout_oneliner.write(dialogue+"\t\t",)
-            wdict[key]=dialogue #.decode('utf-8')
+def crawler(wfile, word, wdict):
+    key_found=False
+    stopper=''
+    for i, line in enumerate(wfile):
+        if key_found and line.strip()!=stopper:
+            fout.write(line.strip())
+            fout_oneliner.write(line.strip()+"\t\t\t\t",)
+            wdict[i]=line.strip()
+        elif line.startswith(word):
+            key_found=True
+        else:
+            key_found=False
     return wdict
+
 
 ### handwork....
 
@@ -63,7 +60,7 @@ lookfordict={}
 lookfordictOrder = collections.OrderedDict(sorted(lookfordict.items()))
 #print lookfordictOrder
 
-crawler(lookfor, lookfordict)
+crawler(script, lookfor, lookfordict)
 
 print "//////////////////////output saved to the file: crawler_for_subtitler.txt"
 print "//////////////////////and a one line version saved to: crawler_oneliner.txt"
