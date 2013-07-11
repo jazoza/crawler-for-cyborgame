@@ -1,4 +1,6 @@
-import codecs, collections
+import codecs, collections, pygame, sys
+
+pygame.init()
 
 try:
     fin = codecs.open("CYBORGAME.txt", "r", encoding="utf-8")
@@ -66,9 +68,13 @@ print 'this!', lookfordictOrder
 #print "//////////////////////output saved to the file: crawler_for_subtitler.txt"
 #print "//////////////////////and a one line version saved to: crawler_oneliner.txt"
 while True:
+    for event in pygame.event.get():
+        print event
+        if event.type == pygame.QUIT or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE):
+            sys.exit()
     if any(lookfordict.values()):
         print 'you have', len(lookfordict), 'scenes'
-        display=raw_input('which scene do you want to print?\n')
+        display=raw_input('which scene do you want to print?\n(to exit, press "ESC"\n')
         try:
             selection=eval(display)-1
         except NameError:
