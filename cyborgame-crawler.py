@@ -1,10 +1,11 @@
+#! /usr/bin/python
+
 import codecs, collections, pygame, sys
 
 pygame.init()
 
 try:
     fin = codecs.open("CYBORGAME.txt", "r", encoding="utf-8")
-    fout = codecs.open("crawler_for_subtitler.txt", "w", encoding="utf-8")
     fout_oneliner = codecs.open("crawler_oneliner.txt", "w", encoding="utf-8")
     try:
         script = fin.readlines()
@@ -20,7 +21,6 @@ def crawler(wfile, word, wdict):
     stopper=''
     for i, line in enumerate(wfile):
         if key_found and line.strip()!=stopper:
-            fout.write(line.upper())
             fout_oneliner.write(line.strip().upper()+"\t\t\t\t",)
             wdict[i]=line.strip().upper()
         elif line.startswith(word):
@@ -85,5 +85,8 @@ while True:
         #print i, key
         if i==selection:
             print key
-            print lookfordictOrder[key]
+            the_line=lookfordictOrder[key]
+            fout = codecs.open("crawler_for_subtitler.txt", "w", encoding="utf-8")
+            fout.write(the_line)
+            fout.close()
 
