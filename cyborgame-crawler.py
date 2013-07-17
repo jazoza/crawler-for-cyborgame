@@ -31,6 +31,15 @@ def crawler(wfile, word, wdict):
     return wdict
 
 
+def breaklines(line, filez, n):
+    for i, word in enumerate(line.split(), 1):
+        if i%n:
+            print word, 
+            filez.write(word+' ')
+        else:
+            print word
+            filez.write(word+'\n')
+
 ### choose script content to analyse
 
 characters={0:"title", 1:"LE PERSONNAGE DE ROMAN", 2:"LA VOIX", 3:"LE COLONEL", 4:"#scene description", 5:"#shouting", 6:"#battle", 7:"#shock"}
@@ -88,23 +97,9 @@ while True:
             the_line=lookfordictOrder[key]
             if lookfor=="LA VOIX":
                 print "to display SECONDE PARTIE only, choose dialogues from 33 to 60"
-                for i, word in enumerate(the_line.split(), 1):
-                    if i%5:
-                        print word, 
-                        fout.write(word+' ')
-                    else:
-                        print word
-                        fout.write(word+'\n')
+                breaklines(the_line, fout, 5)
             else:
-                for i, word in enumerate(the_line.split(), 1):
-                    if i%2:
-                        print word,
-                        fout.write(word+' ')
-                    else:
-                        print word
-                        fout.write(word+'\n')
-    #        fout.write('pisao sam')
-    #        print 'updated crawler_for_subtitler.txt', the_line
+                breaklines(the_line, fout, 2)
             fout.close()
         elif selection=='f':
             print 'forward,', 'key', key
@@ -113,6 +108,8 @@ while True:
 
 """
 TODO
+part1: descriptions > always three lines!!! follow the actors with descriptions
+prepare a list of titles or live writing (ERASE, SLASH, 
 part2: LA VOIX, chronologically; (starts with line 433, choose dialogues from 33 to 60; 
 how much text appears? 
 part3: combat titles, descriptions, WHAT IS WRITTEN IN BIG, +++
