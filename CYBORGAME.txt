@@ -25,14 +25,14 @@ subtitle
 LA CAGE
 
 
-#SCENE DESCRIPTION
+#scene description
 Te souvenir : « Si j’en sors, j’en sortirai plus fort ».
 
 
 NOIR
 
 LUMIERE FAIBLE
-#SCENE DESCRIPTION
+#scene description
 Une pièce sombre.
 De forme cubique.
 Environ deux cents mètres carré au sol.
@@ -48,14 +48,14 @@ Fine peau cybernétique.
 Elle est seule.
 
 SUPER LUMIERE
-#SCENE DESCRIPTION
+#scene description
 On entend une voix.
 La voix d’une femme.
 
 LA VOIX		
 Yes yes yes … i take it… i take… bonjour… merci…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LA VOIX		
@@ -95,7 +95,7 @@ Non…
 LA VOIX		
 Par exemple votre nom ?…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LE PERSONNAGE DE ROMAN
@@ -132,7 +132,7 @@ Bonjour…
 LE PERSONNAGE DE ROMAN
 Bonjour… 
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LE PERSONNAGE DE ROMAN
@@ -219,7 +219,7 @@ Pourquoi ?...
 LA VOIX		
 Parce que vous ne me croiriez pas…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 
@@ -243,7 +243,7 @@ NOIR
 
 LUMIERE SOMBRE
 
-#SCENE DESCRIPTION
+#scene description
 Le Personnage de Roman donne l’impression de se parler à lui/elle-même ou à une entité absente à qui elle enverrait clairement des informations secrètes.
 
 #shouting LE PERSONNAGE DE ROMAN (Toujours chuchotant)
@@ -309,7 +309,7 @@ Ah ?...
 LE PERSONNAGE DE ROMAN
 Oui… sauf que ce sont plutôt des mots… des trucs bizarres qui me reviennent… je ne sais pas… par exemple : « surface immunologie optimisation contrôle »… en blocs comme ça… je sais pas ça vous dit quelque chose ?... Des bouts de mots composés comme : « vecteur-virus »… ça revient souvent… avec des codes… des nombres… sous forme d’images… de chiffres… je sais pas… et encore toujours « le choc du futur »… ça vous dit quelque chose : « le choc du futur » ?... ou « Gestion de la peur… navigation gestion du stress… navigation… gestion du stress »… « le Choc du Futur »… avec des répétitions comme ça… des flashs… des slashs… des couleurs… des cycles… ça vous dit quelque chose ?...
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LE PERSONNAGE DE ROMAN
@@ -441,80 +441,80 @@ LUMIERE SOMBRE
 LA VOIX
 Vous chantez depuis une dizaine d’années… vous êtes très connu du public… vous commencez à utiliser votre notoriété pour aborder de temps en temps des sujets politiques… c’est-à-dire économiques… vous avez les moyens de suivre plusieurs enseignements jusqu’à devenir vous-même un expert en économie… je pense que c’est à partir de ce moment-là que certaines grandes familles internationales commencent à regarder d’un mauvais œil l’influence que vous pouvez avoir notamment sur les jeunes générations… surtout celles issues de familles riches bien sûr…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LA VOIX
 Vous êtes connu pour vos positions pacifistes et une relative agressivité contre les Droits du Commerce… en 2022… fin des lois d’exemption prévue par l’Accord Général sur le Commerce des Services… vous publiez un livre très critique contre l’utilisation abusive et inégalitaire des anthropotechniques… vous y fustigez avec pas mal de documents à l’appui les grandes familles politico-économiques en disant qu’elles aspirent grâce à leur accès aux anthropotechniques à devenir les nouveaux dieux d’une nouvelle Olympe auxquels la majorité des humains seront bientôt soumis… le manque d’argent ne permettant pas à la majorité des humains d’avoir accès à ces modifications par hybridations manipulations génétique et prise de substances…  vous évoquez une pyramide des consciences… dont la grande majorité des humains sera bientôt exclue… ça ne plaît pas à tout le monde… sans être paranoïaque je pense que secrètement des forces concrètes commencent à réfléchir à votre élimination…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LA VOIX
 Vous recevez plusieurs messages de menace… vous essuyez deux attentats… deux de vos gardes du corps sont blessés un autre est tué… vous faites des déclarations… vous lancez une enquête mais vous ne pouvez pas échapper au stress qui en découle ni à une inquiétude grandissante… vous vous procurez une arme par les voies légales… cette arme : un Rocky New G FR - 59049 – « 100 coups » ne vous quitte plus…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LA VOIX
 Vos ennemis… on peut les appeler comme ça… vos ennemis non déclarés savent évidemment que vous êtes armé… pendant deux ans entre 2023 et 2025 vous disparaissez relativement de la scène publique… mais dès janvier 2026 vous êtes plus déterminé que jamais à faire entendre votre voix… vous devenez l’un des principaux contradicteurs des différents accords mondiaux de suppression des dernières « discriminations économiques » au moment de la fin annoncée des lois d’exemptions votées dès 1994… concernant notamment depuis 2019 l’accès légal aux anthropotechniques… malgré vos interventions… plusieurs accords sont passés… entre les différents Membres des différentes zones d’échanges commerciaux…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LA VOIX
 Les « pouvoirs confondus » lancent la presse à votre poursuite… plusieurs scandales liés à votre image jugée immorale pour les jeunes… plusieurs procès liés à votre utilisation de drogues illicites… la bataille est rude… mais vous finissez par sortir de tout ça relativement indemne… on peut même dire que votre image de star sulfureuse en sort grandie…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LA VOIX
 En 2027 à Taïpeï International vous recevez le « Full Total Sanctuary Award »… décerné par COSMO International… contre toute attente vous devenez une star du Cosplay grâce à l’utilisation qui est faite par les Cosplayeurs de vos songs et musiques originales pendant les rencontres Cosplay… vos fans-acheteurs vous réservent un accueil enthousiaste… votre côte grimpe… et « à l’Heure Culturelle de la Chatte Blanche »… c’est même l’ « Ensemble des Patrons » qui est dans l’obligation de vous féliciter…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LA VOIX
 Deux semaines plus tard… vous profitez de l’occasion… à Tokyo International… dans l’enceinte mythique du Don Quichotte Center… pour annoncer que vous êtes en train de créer un nouveau personnage de fiction que l’on pourra retrouver dans vos concerts… chansons… sur tous supports… jeux vidéo films mangas… rencontres Cosplay… etc.
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LA VOIX
 Ce personnage… vous dites de lui… que vous en serez l’incarnation… et qu’il est justement une « petite sœur des temps modernes » de Don Quichotte… ce héros antihéros du premier Roman moderne de tous les temps de Miguel de Cervantes… dont l’abréviation : « Q’Chot » veut simplement dire : « Vérité » en Araméen (une langue des origines pour la conscience subjective) !… Mais un Don Quichotte dont l’armure aujourd’hui serait le mélange inexacte d’une femme… d’un animal… d’une machine cybernétique et d’une révolte… à l’annonce la foule du Don Quichotte Center est en pur délire… puis… vous annoncez le nom que vous avez choisi pour ce personnage… cette nouvelle incarnation fictive… vous l’avez appelée : Le Personnage de Roman… votre côte explose… je vous cite dans le désordre des déclarations : « J’invente le personnage mythique par excellence… le personnage de fiction… le Personnage de Roman… je revêts ma carapace… mon armure de protection imaginaire poétique et cybernétique… comme Don Quichotte… le Personnage de Roman se bat pour des causes chimériques mais utiles à la réaffirmation de ce que ce monde de vie issu du chaos a de non chiffrable… de non mesurable… le Personnage de Roman nait donc de ma propre imagination…  « en dehors de toute innocence »… le Personnage de roman se tient debout « sans innocence » pour réaffirmer qu’une simple fiction peut à elle seule empêcher certaines choses de mourir ! »…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LA VOIX
 Vous promettez que le Personnage de Roman fera sa première apparition… une semaine plus tard au « Parc Mondial des Jeux du Spectacle » à l’occasion du premier concert de votre « Multiplex Incarnation’s Tour »… beaucoup vous attendent au tournant… le concert sera retransmis sur énormément de supports… sur la plupart des « Zones d’Echanges commerciaux »…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LA VOIX
 Beaucoup exultent… mais je pense que c’est aussi l’occasion rêvée pour vos ennemis…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LA VOIX
 Vous êtes dans votre loge… les différents soins… votre maquillage… sont terminés… le concert commence dans une heure… c’est l’heure de préparer et d’ingérer votre cocktail de médicaments… avant ça… vous allez récupérer votre arme dans l’une de vos armoires… vous restez un temps immobile en face de votre propre image reflétée par les miroirs… vous avalez différentes substances… vous buvez pas mal d’eau pour faire passer tout ça… il vous reste un certain nombre de substances à prendre pour parfaire le cocktail… vous les prendrez dans les minutes… avec un verre de whisky… voire secondes qui précèdent votre entrée en scène…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LA VOIX
 L’expertise post-traumatique révèle comment vous avez probablement réagit au Datura : vous êtes en face du public… le public est là… vous portez un costume étrange… une peau… une combinaison… pour une fois vous commencez à chanter directement… sans parler au public… Assez vite… vous êtes victime d’un bad trip sévère… vous avez la sensation de vous transformer en animal… vous êtes probablement victime d’un ensemble d’hallucinations visuelles et auditives…
 Vous comprenez peut-être en partie ce qui vous arrive mais sur un mode dilaté… vous commencez à chercher vos ennemis dans la salle… le problème c’est que vous commencez aussi à ne plus contrôler votre agressivité… vous comprenez aussi certaines choses relatives à votre intimité… votre vie… vous pourriez presque toucher ces choses et les résoudre de fait… mais certaines prises de conscience… certaines remises en question… si elles arrivent à un mauvais moment peuvent s’avérer au-delà du supportable… ça arrive… vous commencez à voir des ennemis un peu partout dans la salle…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
  
 LA VOIX
 Possible que vos ennemis aient voulut tirer profit et accentuer les effets de cette drogue en utilisant le contexte… la foule… le bruit… les lumières… le stress lié à la performance… en tout cas ils ont réussit… parce que vous n’avez pas pu vous empêcher de sortir votre arme… simplement vous défendre… et vous avez commencé à tirer sur la foule… cherchant à atteindre vos ennemis… impossible de vous arrêter… vous aviez une force hors du commun… des dizaines de blessés… plusieurs morts… j’étais là au milieu de ce chaos… j’étais là… les hurlements… le sang… moi… là… vous… toi… et l’amour intelligent que tous avaient pour vous… beaucoup ont essayé de vous aider comprenant peut-être quelque chose de la situation… ils sont monté sur scène… ils ont été les premières victimes… il a fallu l’intervention du Colonel pour que ça s’arrête enfin… le chaos… 
 
-#SCENE DESCRIPTION
+#scene description
 Le Personnage de Roman s’effondre silencieusement.
 
 LE PERSONNAGE DE ROMAN
@@ -551,7 +551,7 @@ LUMIERE FAIBLE
 LA VOIX
 Tu as subi plusieurs opérations importantes… des hybridations… entre 2023 et 2025… ces hybridations ont été faites à ta demande… tu pensais en réalité depuis plusieurs années au Personnage de Roman… et au-delà de la fiction… tu as souhaité te transformer en utilisant les anthropotechniques que tu critiquais tant… peut-être pour te sentir d’égal à égal avec tes ennemis… et pouvoir te battre contre eux… toi aussi tu étais devenu(e) riche… l’argent nécessaire en tout cas pour suivre le protocole Tri-Tech dans son ensemble : manipulation génétique… hybridation cybernétique… et substances de confort… 
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LE PERSONNAGE DE ROMAN
@@ -560,19 +560,19 @@ La peau…
 LA VOIX
 Oui… la peau… est ta peau… la réponse… tu as métabolisé Tri-Tech au-delà des normes connues… ton corps est passé du masculin à un féminin hybride d’une façon inexplicable… et il semble que tu aies aussi acquis certains pouvoirs… pendant plusieurs années tu as entamé un processus de mutation… ce qui explique aussi pour une part l’agressivité de certains « pouvoirs » à ton encontre… au point qu’ils aient par la suite cherché à t’abattre… mais explique aussi que l’agressivité déclenchée par le cocktail de Datura n’est pas été à l’origine de quelques meurtres… mais d’un véritable massacre…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LA VOIX
 Tu n’es pas seulement l’interprète d’une fiction que tu as rêvée et élaborée… créée… tu es réellement devenue le Personnage de Roman… tu es le Personnage de Roman…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LA VOIX
 Colonel… je continue ?...
 
-#SCENE DESCRIPTION
+#scene description
 Autorisation en hors-champ du Colonel.
 
 LA VOIX
@@ -581,13 +581,13 @@ La cage dans laquelle tu as été placé(e)… vient d’être doublée d’une 
 LA VOIX
 tu es sous juridiction militaire… le Colonel est à mes côtés… il a tenu à ce que je t’informe et te décrive la situation réelle… je suis en train de pleurer… pardon… à mesure que je te parle… pardon…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LA VOIX
 Tu n’as jamais suivi les concepts dominants… la voilà… la cause mon amour… la raison… la folie… l’origine je le sais… mais aujourd’hui… tu es un hybride mutant et un criminel… une criminelle mutante… une chose animale machine criminelle... la cage a été conçue et améliorée pour… non… Colonel… je ne peux pas… pardon… je t’aime… tellement…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LA VOIX
@@ -596,19 +596,19 @@ Pour assurer… pardon…
 LE PERSONNAGE DE ROMAN
 Continue !… La cage a été conçue pour assurer quoi ?...
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LA VOIX
 Ta destruction…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LE COLONEL
 C’est le Colonel qui vous parle…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LE PERSONNAGE DE ROMAN
@@ -620,25 +620,25 @@ Colonel… merci pour les informations… vous allez vous y prendre comment ?..
 LE COLONEL
 Les soldats contre lesquels vous allez devoir vous battre… auront une réalité pour votre système nerveux mais vous resterez seul dans la cage… les soldats et les armes que nous utiliserons contre vous seront actifs et réels pour vous… mais « déclenchés » depuis une autre cage située à une dizaine de kilomètres de vous… depuis un simulateur… une autre cage… copie identique… conforme… ou presque à celle dans laquelle vous vous trouvez…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LE COLONEL
 Chaque attaque sera donc non seulement perçue vécue éprouvée par votre système nerveux comme une réalité… mais sera doublée par une autre attaque… dans la réalité vraie…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LE COLONEL
 La cage est donc à la fois un bouclier pour nous… et un arsenal réel dressé contre vous… tout autour de vous… chaque coup que nous vous porterons en virtuel sera encaissé en réel par votre système nerveux… et ce coup sera doublé… porté en réel contre votre corps physique… par des armes réelles… vraies…  
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LE COLONEL
 Si vous essayez de capturer ou de tuer des soldats… mes hommes… ils seront désimplantés et sortis du programme avant que vous puissiez les atteindre en réel… même chose pour les armes que nous utiliserons même si le système de désactivation est différent… vous ne pourrez donc jamais nous infliger des pertes réelles… l’inverse évidemment… vous l’aurez compris… ne sera jamais vrai puisque vous n’avez le moyen de vous désimplanter ni du système virtuel ni du réel… sauf par la mort bien entendu… votre mort… réelle… je vous souhaite de comprendre ça très vite… et de mourir très vite…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LE COLONEL
@@ -650,7 +650,7 @@ Yes yes yes…
 LE COLONEL
 Je suis moi-même un hybride-cyber mais j’ai toujours gardé le contrôle… de mes capacités réelles… de mes pouvoirs… de mes souvenirs… je n’ai pas votre talent…
 
-#SCENE DESCRIPTION
+#scene description
 Temps.
 
 LE COLONEL
@@ -691,7 +691,7 @@ NOIR
 
 LUMIERES MOUVANTES
 
-#SCENE DESCRIPTION
+#scene description
 Le Personnage de Roman attend.
 Inquiétudes.
 Elle ne sait pas d’où viendra la première attaque.
@@ -706,81 +706,105 @@ Surface	immunologie optimisation contrôle optimisation sous système	ingénieri
 #battle
 PREMIER COMBAT.
 
+#scene description
 Les hommes du Colonel entrent ou plutôt apparaissent dans la cage.
 Une vingtaine, lourdement armés.
 Le Personnage de Roman se jette au milieu du groupe de façon tout à fait chaotique.
 
+LE PERSONNAGE DE ROMAN
 Biologie prends-ça !
 Bruit limite prends-ça ! Composant biotique	simulation	bruit bruit Huuh !	Limite SLASH XXB…
 
+#scene description
 Les soldats n’ont aucun mal à contrer l’attaque du Personnage de Roman.
 Elle s’écrase contre un mur.
 
+LE PERSONNAGE DE ROMAN
 	Navigation peur… gestion de la peur navigation…
 
+#shock
 LE CHOC DU FUTUR…
+
+LE PERSONNAGE DE ROMAN
 Huuh !...
 
 #battle
 DEUXIEME COMBAT.
 
+#scene description
 C’est une course rapide et un choc bref ultra violent entre les forces de l’ordre et le Personnage de Roman.
 Les deux blocs reprennent leurs positions.
 
+LE PERSONNAGE DE ROMAN
 Peur !
 
+#shock
  LE CHOC DU FUTUR !
 
+LE PERSONNAGE DE ROMAN
 Peur ! 
 
+#shock
 LE CHOC DU FUTUR !
 LE CHOC DU FUTUR !
 LE CHOC DU FUTUR !
 
+LE PERSONNAGE DE ROMAN
 Peur navigation espions stress gestion de la peur alerte espions !
 
 #battle
 TROISIEME COMBAT.
 
+#scene description
 C’est à nouveau une course qui s’enchaine avec un combat à mains nues entre trois des hommes du Colonel  et le Personnage de Roman.
 Quinzaine de secondes.
 Eternité.
 La cage tremble.
 
+LE PERSONNAGE DE ROMAN
 Huuh
 Réplication réplication !
 
+LE PERSONNAGE DE ROMAN
 Inversion de la peur gestion de la peur ! 
 
+LE PERSONNAGE DE ROMAN
 Réplication !
 Mutation !
 Moi je ne sais pas moi !
 Plus rapide !
 Gestion du speed !
 
+LE PERSONNAGE DE ROMAN
 Stress gestion de l’inversion du processus de détérioration optimisation des rôles sexuels optimisation de l’apprentissage bruit limite alerte gestion du speed speed contraintes !
 		
+LE PERSONNAGE DE ROMAN
 Est-ce que ça aurait pu commencer autrement ? Est-ce qu’on est-ce qu’on aurait pu est-ce que ça aurait pu commencer autrement légèrement différemment ?			
 Peur peur gestion du speed
 Ca ne pourra pas durer longtemps comme ça speed huuh !
 
+LE PERSONNAGE DE ROMAN
 Je n’y arrivais pas c’est pour ça !...
 Huuh !
 
 #battle
 QUATRIEME COMBAT.
 
+#scene description
 Mains nues.
 Premier sang de part et d’autre.
 	
+LE PERSONNAGE DE ROMAN
 		Oui sûrement oui	sûrement
-
 Mais est-ce qu’on aurait pu changer quelque chose dans ce changement même qui s’opérait autour de nous à ce moment-là à cet instant ? Et si des vivants des vibrants avaient essayé ?
 
+LE PERSONNAGE DE ROMAN
 Navigation navigation gestion de l’inversion du processus de détérioration 
 
+LE PERSONNAGE DE ROMAN
 Alerte intelligence !
 
+#shock
 réplication réplication
 réplication réplication
 réplication réplication
@@ -790,49 +814,60 @@ réplication réplication
 #battle
 CINQUIEME COMBAT.
 
+LE PERSONNAGE DE ROMAN
 Huuh ! Prends-ça ! Huuh !
 
+LE PERSONNAGE DE ROMAN
 Huuh !
 
 #battle
 SIXIEME COMBAT.
 
+#scene description
 Mains nues, coups de matraque dans le dos et l’arrière du crâne du Personnage de Roman.
 Reprise des positions.
 Attente.
 Observation.
 
+LE PERSONNAGE DE ROMAN
 Speed gestion du speed réplication mutation
 Sécurité gestion des espions sécurité mutation
 
+LE PERSONNAGE DE ROMAN
 S’ils avaient essayé de glisser dans la représentation une préfiguration de ce monde après que l’ensemble des changements aient été opérés
 
+LE PERSONNAGE DE ROMAN
 Quelque chose de cet autre 
 Autre
 Autre aurait-il pu se glisser ?
 Je n’y arrivais pas mais si nous avions pu y arriver
 On aurait pu regarder
 
+LE PERSONNAGE DE ROMAN
 Un principe puissant a du me faire prendre conscience que je n’arrivais pas non je n’y arrivais pas et c’était pourtant exactement ce qu’il fallait pour que ça commence je n’y arrivais pas et ça c’était parfait pour que ça commence pour un commencement on est d’accord c’était parfait	en tout cas aussi parfait que possible pour moi à ce moment-là oui j’y avais pensé mais je n’y n’arrivais pas et c’était donc très proche d’être parfait pour commencer
 
 #battle
 SEPTIEME COMBAT.
 
+#scene description
 Tout le groupe du Colonel repoussé d’une seule main par le Personnage de Roman.
 Surprise.
 Apparition d’un troisième bloc : Le Colonel en personne.
 
+#scene description
 Le Colonel est, on le sait, un hybride-cyber.
 Il est surpuissant.
 Pour des raisons inconnues, il est résolument du côté de l’armée, dont il ne peut manquer de savoir qu’elle cherchera, lui aussi, à le détruire, tôt ou tard.
 Il frappe.
 Il frappe.
 
+LE PERSONNAGE DE ROMAN
 Huuh !
 
 #battle
 HUITIEME COMBAT.
 
+#scene description
 Deux blocs contre un.
 Le combat s’organise avec des gestes d’arts martiaux.
 Ballet asiatique.
@@ -848,55 +883,72 @@ Absence d’innocence.
 Fuck.
 Elle respire fort.
 
+LE PERSONNAGE DE ROMAN
 Champs des différences virus citoyenneté principe féminin couplé animal couplé virus hybride couplé 
 Machine maison électronique
 Usine planétaire
 Personnalité du circuit intégré de simulation…
 
+#shock
 LE CHOC DU FUTUR !
 
+#shock
 Putain ! Putain ! Fuck !
 
+#shock
 FEEDBACK ! FUCK !
 
+#shock
 Huuh !
 Huuh !...
 
 #battle
 NEUVIEME COMBAT.
 
+#scene description
 Sorte de Karaté archaïque, magique, ancien.
 
+LE PERSONNAGE DE ROMAN
 Amélioration stress stress stress gestion du speed alerte gestion assistance contre-logique du speed stress stress intelligence…
 
 #battle
 DIXIEME COMBAT.
 
+#scene description
 Tout à coup, du sang à nouveau.
 Du sang, beaucoup de sang.
 Recul de part et d’autre.
 Le Colonel se tient dans une ombre profonde, réfléchissant.
 
+LE PERSONNAGE DE ROMAN
 C’était mon sentiment dominant et la question aujourd’hui c’est : est-ce qu’on aurait pu dès ce moment-là améliorer quelque chose dans cette prise de conscience ? Encore une fois est-ce qu’on aurait pu changer quelque chose dans ce changement même au moment où je le vivais ? Question… et pourtant dans ce mélange de fiction et de vécu qui était la vie… je me sentais aussi fortement que possible pour moi-même à ce moment-là je me sentais incapable de produire cette alternative et justement ce saisissement ce sentiment c’était exactement le sentiment et le saisissement oui personnel qu’il fallait pour tout déclencher oui tout déclencher…
 
+#shock
 Déclencher !
 	
+#shock
  Speed gestion du speed !
 
+LE PERSONNAGE DE ROMAN
 Je ne sais pas pourquoi je ne sais absolument pas pourquoi depuis quelque temps j’avais eu ce sentiment eu la sensation que je n’arrivais pas non je n’arrivais pas j’y avais pensé mais je n’y n’arrivais pas je me sentais incapable de produire une alternative j’ai eu le sentiment exact que mon cerveau et il n’était peut-être pas le seul pris de faiblesse peut-être je n’arrivais pas avec mon cerveau et pas seulement avec lui mais avec tout moi avec toutes les parties de moi constituant la partie que je suis enfin petite partie que j’étais miracle que je ne pouvais pas produire une alternative à la loi qui rendait mon intimité-humanité petite si superflue… et si…
 
+#shock
 Pendant ce temps !
 Le soleil brule !
 
+#shock
 Impossible pour la partie que j’étais de produire donc l’alternative…
 
+#shock
 LE VOILA LE PERSONNAGE DE ROMAN !
 
+#shock
 Huuh !
 
 #battle
 ONZIEME COMBAT.
 
+#scene description
 Hurlement du groupe armé qui fonce et fait voler son adversaire.
 Le Personnage de Roman s’écrase contre un des murs de la cage.
 Sonnée.
@@ -906,18 +958,24 @@ Rien.
 Petite.
 Le groupe se replie comme l’éclair.
 
+#SCENE DECRIPTION
 Le Colonel, un instant, entre dans la lumière avec un sourire de victoire.
 Le Personnage de Roman continue de parler.
 N’abandonne pas le langage.
 
+LE PERSONNAGE DE ROMAN
 Ca y est je me rappelle je me souviens
 
+LE PERSONNAGE DE ROMAN
 Et j’ai eu ce sentiment aussi exactement que possible je crois pour moi à ce moment-là j’ai éprouvé pleinement peut-être pas peut-être pas pleinement non mais aussi pleinement que possible en tout cas pour moi à ce moment-là o.k. j’ai éprouvé comme un déficit		
 
+LE PERSONNAGE DE ROMAN
 Je n’arrivais pas avec ma petite pensée et pas seulement avec elle mais avec toutes les petites toutes petites parties petites parties de moi constituant la toute petite partie que j’étais que je suis enfin je n’arrivais pas je ne pouvais pas produire l’alternative à ce qu’on aurait pu appeler le flux
 
+#shock
 Flux immense-excès
 
+#shock
 Et donc dans ce début d’élaboration de stratégies de contestation 
 Des flux dominants
 		Alors que tout ce passait à merveille ou pas loin !...
@@ -926,6 +984,7 @@ Huuh ! Prends-ça !
 #battle
 DOUZIEME COMBAT.
 
+#scene description
 Choc entre les blocs.
 Le Colonel se relève, une arme laser à la main.
 Les hommes du Colonel reprennent leurs positions.
@@ -937,32 +996,42 @@ Huuh ! Prends ça !
 #battle
 TREIZIEME COMBAT.
 
+#scene description
 Le personnage de Roman fonce sur ses adversaires.
 Ils ont disparus.
 Elle se bat contre la surprise et le vent.
 Vide.
 Elle se reprend.
 Se calme.
+
+
+#shock
 Huuh !
 
 #battle
 QUATORZIEME COMBAT.
 
+#scene description
 Un gaz.
 Un temps.
 Le Personnage de Roman ressemble, tout à coup,  à une momie égyptienne.
 
+LE PERSONNAGE DE ROMAN
 J’étais devenue comme je crie hurle je ne sais quoi de superflu je ne sais quoi de téléguidé téléchargé vendu sur ma zone d’échanges et j’en prenais conscience et c’était suffisant pour commencer bien suffisant pour ça commence…
 
+#shock
 LE VOILA LE PERSONNAGE DE ROMAN ! 
+#shock
 LA VOILA LA PETITE FILLE MECANIQUE ANIMALE ! 
+#shock
 AVEC SON CŒUR QUI BAT DANS SA CAGE ! 
+#shock
 ENGAGEE DANS LA CHAINE SANS BORDS SANS REFLETS DES EFFETS ET DES CAUSES !
 
 #battle
 QUINZIEME COMBAT.
 
-#SCENE DESCRIPTION
+#scene description
 De son immobilité, le Personnage de Roman, créé un double mobile qui se mobilise, s’engage, à nouveau, de façon infinie, dans le combat.
 Quelque chose tombe ou se relâche.
 Le Personnage de Roman se « re-narcissise », se retrouve. 
@@ -976,6 +1045,7 @@ Ah !...
 #battle
 SEIZIEME COMBAT.
 
+#scene description
 Les hommes du Colonel se regroupent, agencent plusieurs éléments entre eux : c’est une petite bombe technoïde.
 Ils la lancent sur le Personnage de Roman.
 Explosion.
@@ -998,19 +1068,22 @@ Prendre plaisir au seul plaisir seul de la marche
 LE PERSONNAGE DE ROMAN
 Cet être autre être j’ai donc commencé à l’imaginer et assez vite j’ai senti que lui aussi en quelque sorte avait le pouvoir de m’imaginer nous nous imaginions est-ce qu’on peut dire ça ?... 
 
-LE PERSONNAGE DE ROMAN
+#shock
 ON PEUT DIRE CA ?!...
 
 LE PERSONNAGE DE ROMAN
 Donc à partir de cette capacité à imaginer que j’étais cet autre être que cet autre encore autre être que je suis… j’étais un être doté d’autres aptitudes d’autres pouvoirs… 
 
+#shock
 LE VOILA LE PERSONNAGE DE ROMAN   !
 
+#shock
 HUUH !    PRENDS-CA !...
 
 #battle
 DIX-SEPTIEME COMBAT.
 
+#scene description
 Le Personnage de Roman devient elle-même une bombe.
 Elle explose.
 Fumée toxique.
@@ -1019,31 +1092,32 @@ Ils sont retirés du programme.
 Le Personnage de Roman se recompose lentement.
 Au cours de cette nouvelle étape de mutation, le Personnage de Roman souffre horriblement.
 
+LE PERSONNAGE DE ROMAN
 Ma petite maman…
-
 Quand je pense au moment de ma vie…
-
 Où tout a si subitement basculé…
-
 A tous ces évènements…
-
 Je ne sais pas comment l’exprimer…
-
 J’ai juste le sentiment qu’un sens profond se cache…
-
 En toute chose…
 
+#shock
 LE VOILA LE PERSONNAGE DE ROMAN   !
 
+#shock
 LE VOILA !...
 
+#shock
 LE CHOC DU FUTUR !
 LE CHOC DU FUTUR !
 
+LE PERSONNAGE DE ROMAN
 L’un l’autre l’un dans l’autre serait plus juste l’un dans l’autre oui l’un dans l’autre c’est une drôle d’expression l’un dans l’autre bon l’un dans l’autre on s’imaginait je ne sais pas mais en tout cas le truc le phénomène était là à savoir que je suis devenue par la force d’au moins deux imaginations combinées un être d’un autre genre-type au commencement quelque chose qui commençait entre le vivant et la machine pas un hybride cyber humain non pas exactement plutôt une hybride cyber femme ou plutôt ou mieux qu’une cyber femme hybride le mélange impur et inexact d’une femme et d’une machine et d’un certain nombre d’autres éléments aussi indéfinissables que des animaux des fleurs des insectes des caresses de la pluie du sable cyber je ne sais quoi et j’avoue d’un certain nombre d’autres facteurs vivants et pour la plupart conscients pour la plupart même si tous n’étaient pas porteur d’une conscience subjective ça aurait pu ressembler à une sorte de lubie de folie mais non il s’agissait bien d’une autre entrée concrète dans notre multiplex à incarnations plus encore d’ailleurs que j’incarnais j’étais incarnée ce soir-là par un univers ambigu un naturel fabriqué une machine animale un personnage de roman oui le voilà le personnage de roman mon intimité et mon énergie ne proviennent plus totalement de l’évolution de la sexualité telle que nous la connaissions une partie de moi plus de la moitié soudainement vient de la réplication et s’émancipe de la seule reproduction organique  secrètement en moi-même je m’appelle !...
 
+LE PERSONNAGE DE ROMAN
 Une de mes premières pensées est : la première peut-être dont je me souvienne est : 
 
+LE PERSONNAGE DE ROMAN
 Je suis une question de fiction et de vécu de vie et de mort !
 Et je dis qu’il n’y a plus de frontières entre la science-fiction et la réalité sociale ! 
 Bruit limite stress gestion du stress
@@ -1052,17 +1126,20 @@ Les connexions réelles sont toujours partielles !
 #battle
 DIX-HUITEME COMBAT.
 
+#scene description
 Les hommes du Colonel utilisent une sorte de canon à fluide.
 Ils l’actionnent, arrosant le Personnage de Roman avec le liquide qui en sort par jets puissants.
 Sous l’action du fluide, le Personnage de Roman, ruisselle de sang, devient elle/lui-même liquide, sang.
 Elle hurle.
 Elle ne renonce pas.
 
+LE PERSONNAGE DE ROMAN
 Prends-ça !
 
 #battle
 DIX-NEUVIEME COMBAT.
 
+#scene description
 Le Personnage de Roman, sous l’effet d’une arme invisible, devient une boule de sang froid, lourde comme de l’huile.
 Ce qu’il reste de sa tête pantelante la fait atrocement souffrir.
 La pauvre.
@@ -1073,40 +1150,52 @@ Tant mieux.
 Courage.
 Elle se recompose sous un aspect d’algue cybernétique.
 
+#scene description
 Elle se calme.
 Sa nouvelle forme peut maintenant faire penser à nos huitres de fin de terre.
 Elle se bat.
 LE CHOC DU FUTUR !
 
+LE PERSONNAGE DE ROMAN
 Huuh !... Prends-ça !...
 
+#shock
 L E    C H O C    D U    F U T U R     !
 
 #battle
 VINGTIEME COMBAT.
 
+#scene description
 Tristesse.
 Tristesse battue en brèche.
 Amour.
 Retour au calme.
 
+LE PERSONNAGE DE ROMAN
 Étrange ça m’a fait un effet assez étrange ça m’a fait l’effet ça m’a donné un reflet non le sentiment de sortir d’un reflet d’être cette petite et très bizarre petite fille cette très petite petite femme animale machine petite minorité qui avançait dans sa fiction où il était question d’un fait de la plus haute importance politique et au loin l’écho : 
 
+#shock
 « Avait-on suffisamment travaillé ?! Oui avait-on suffisamment travaillé à construire une conscience de l’oppression ?! »
+
+#shock
 Avait-on réellement suffisamment
 Appréhendé en imagination
 Ce qui pouvait en découler ?!...
 
+#shock
 L E   P E R S O N N A G E   D E   R O M A N   hurle que personne n’avait jamais à ce point soupçonné la puissance du commencement !
-	
+
+#shock
 Le voilà l’oracle le voilà le Personnage de Roman vomissant la vision éprouvée d’une machine vivante hurlant ses oracles d’impuretés de perversités de vie !
 Tout ce peuple d’orgies de systèmes codés ! 
 Super partenaires ! 
 Chimères hybrides d’organismes et de machines théorisées puis fabriquées !
 Le voilà le Personnage de Roman qui annonce !...
 
+LE PERSONNAGE DE ROMAN
 J’annonce la fin de la domination masculine raciste capitaliste ! J’annonce la fin de l’idée d’un progrès issu de l’appropriation de la nature comme ressource pour les productions de la culture ! J’annonce ! Putain ! J’annonce enfin ! J’annonce la fin de la tradition de la reproduction de soi par le seul regard des autres ! Cyber - je ne sais quoi – je ne sais qui ! À l’instant moins aucune secondes je suis « née » sous vos yeux derrière vos yeux les miens chacun d’entre les uns et à tous coups tout à coup je suis là et j’annonce que je suis comme chacun un être du commencement ! Mais dans ce commencement j’annonce la disparition de l’association de ma naissance avec quoi que ce soit d’innocent ! Innocence Zéro ! Pourquoi ? Parce que sans innocence pas de fin de l’innocence c’est-à-dire pas de début de la faute ! Pas de péché originel ! Pas de péché originel putain ! Fini terminé le condamnateur ! J’annonce que j’en fini définitivement avec la faute ! Le voilà le commencement ! La voilà ma naissance sans innocence ! Lance ! Lance ! lance ! Tension intense ! Lance ! Ma naissance ! Sans innocence ! Ma naissance ! La voilà enfin la possibilité de faire tenir ensemble des choses incompatibles et pourtant vraies ! Pourquoi ?! Parce qu’elles sont devenues nécessaires !...
 
+#shock
 Qui ?!
 Qui je suis ?!
 L’horrible conséquence de l’apocalypse finale de l’escalade de la domination de l’individuation de l’hyper-moi flottant seul dans l’espace ! 
@@ -1114,42 +1203,58 @@ Et je dis que je suis sans histoire originelle !
 Histoire originelle zéro ! 
 Innocence zéro !
 
+LE PERSONNAGE DE ROMAN
 Je n’avais jamais été aussi proche d’être l’enfant illégitime !
 
+LE PERSONNAGE DE ROMAN
 Je suis l’enfant illégitime excessivement infidèle à ses origines !... Je ne me sens plus épouvantablement inerte en face de machines étrangement vivantes ! Je n’ai pas de souvenirs du cosmos ! Je ne peux que subvertir l’apocalypse du retour à la poussière ! Je ne peux pas rêver de retourner à la poussière !
  
+#shock
 JE NE RÊVE PLUS DE POUSSIÈRE !
 
+#shock
 JE NE REVE PAS DE POUSSIERE !
 
+#shock
 JE N’AI PAS DE SOUVENIRS DU COSMOS !
 
+LE PERSONNAGE DE ROMAN
 Je ne suis plus cette légère trace sans cesse retracée qui interprète ses rêves de certitude je suis celle qui fredonne des signaux d’ondes électromagnétiques de section de spectre d’éventualités dangereuses de frontières effondrées transgressées de caresses qui fédèrent efficacement des stratégies de contestations !
 
 (Hurlant) 
 
+#shock
 Le voilà le personnage de roman !
 
+#shock
 Qui n’attend plus que son père la sauve en restaurant le jardin originel !
 
+#shock
 Une communauté « d’appartenant à ce à quoi on n’appartient pas » se dessine enfin tatouée dans les origines de mon corps inédit !
 (Je ne rêve pas d’une communauté établie sur le model de la famille organique !)
 
+#shock
 Femme-animale-machine-je suis
 
+#shock
 Je-ne-s’appuie plus sur une logique d’appropriation d’incorporation d’identification !
 
+LE PERSONNAGE DE ROMAN
 Je-n’a jamais autant ressenti saisit le besoin d’une unité politique qui fracasse fragmente permette d’agir contre un système fondé sur la race le genre la sexualité la classe sociale !
 
+#shock
 Je n’ai plus besoin de trouver une matrice unitaire dans la nature !
 Je ressens intimement qu’aucune construction ne sera plus jamais complète !
 
+#shock
 Je vois clairement que le chaos et la complexification annoncent bien la fin de l’homme tel qu’il a été pensé !
 Je t’embrasse !...
 Dans le temps même où je pressens la force malheureuse de l’informatique de domination !
 
+#shock
 Je ne suis pas un manifeste…
 
+#shock
 Pourquoi ?!...
 Parce que… je t’aime… parce que…
 Je n’ai pas cherché à être qui je suis !
@@ -1158,11 +1263,13 @@ C’est tout !
 Je suis un fait historique qui se bat !
 C’est tout !
 
+#shock
 Je lutte pour la parole !
 
 #battle
 VINGT-ET-UNIEME COMBAT.
 
+#shock
 Démographie optimisation sous système	ingénierie de communication		biologie	bruit	limite	composant biotique
 Fiction simulation science…	
 Bruit	bruit	limite	alerte !
@@ -1183,26 +1290,31 @@ Connexions virtuelles réelles !...
 #battle
 VINGT-DEUXIEME COMBAT.
 
+#scene description
 Les hommes du Colonel utilisent à présent des lames volantes.
 Les membres du Personnage de Roman tombent de son tronc, d’abord les bras, puis, les jambes.
 Hurlement.
 Une sorte de puits de lumière sans lumière apparait.
 « L’inverse de la lumière », comme une amie d’un autre âge, doucement, se penche, travaille à recomposer le corps du Personnage de Roman.
 
+LE PERSONNAGE DE ROMAN
 On pouvait attendre des stratégies de contrôle qu’elles se concentrent sur les conditions aux limites et sur les interfaces ou sur les taux des flux transversaux et non sur l’intégrité d’ « objets naturels » !...
 Mais c’est bien sur l’intégrité ou la sincérité du « moi » ! Que s’engageaient les procédures décisionnelles et les systèmes experts !
 
 #battle
 VINGT-TROISIEME COMBAT.
 
+#shock
 Je pressens la disparition pure et simple des corps !
 Oh ! Oh ! Oh ! Mais seulement… 
 Après qu’ils aient beaucoup souffert !...
 
+#shock
 Une pathologie règne sur cet univers !
 Stress speed échec !
 Et en affecte tous les composants !
 
+#shock
 Les gens ! 
 Oh ! Les gens ! 
 Les gens !
@@ -1211,6 +1323,7 @@ Oh comme j’aime les gens !
 #battle
 VINGT-QUATRIEME COMBAT.
 
+#scene description
 Un déchainement de Basou kas, de grenades, décollent, arrachent par endroits la peau cybernétique du Personnage de Roman qui hurle.
 D’innombrables câbles, fils, drains, tubes, de toutes tailles, comme par révolte, sortent du corps du Personnage de Roman en la perforant, grossissant rapidement vers l’extérieur, cherchant à se brancher, à se connecter à un réseau mystérieux, la vie ou  autre chose.
 Le corps du Personnage de Roman prend l’aspect d’une machine organique, sorte de pieuvre échevelée, qui se génère elle-même suivant semble-t-il une loterie aléatoire, tel un chaos.
@@ -1221,41 +1334,55 @@ Le Personnage de Roman se cogne contre les murs de la cage, se mordant lui/elle-
 LE PERSONNAGE DE ROMAN
 Je suis proche ! JE M’APPROCHE !... De ne plus être soumise à la biopolitique puisque je la respire ! Je suis proche ! JE M’APPROCHE ! Je suis proche de ne plus simuler… JE M’APPROCHE de m’ouvrir de fait un champ d’action puissant ! Mais je ne fais PAS que m’approcher de ce qui s’écarte de ce qui fait que l’horrible but peut être traduit en langage de développement de rythmes et de contraintes de la soi-disant modernisation !	
 
+#shock
 LE PERSONNAGE DE ROMAN
 ME VOILA !
 LE PERSONNAGE DE ROMAN
 Personnage !
+
 (Fragile !)
 
 #battle
 VINGT-CINQUIEME COMBAT.
 
+#scene description
 Le Personnage de Roman prend un instant la forme d’un nuage sombre avec de petites flammèches lumineuses.
 Elle attaque ses adversaires comme une sorte de champ magnétique, mini tornade anti-rétro-rétro-attractive.
 Les hommes du Colonel sont violemment repoussés vers les murs de la cage.
 Choc.
 
+LE PERSONNAGE DE ROMAN
 J’entre en scène… le voilà… mon baiser batard pour tout rendre impur… impur… batard !
 
+#shock
 Il n’y a pas que nos imaginaires qui sont militarisés !
 Il n’y a pas que nos imaginaires qui ont été militarisés !
 
+#shock
 LE CHOC DU FUTUR !
 
+#shock
 On n’échappe pas aux réalités de ce que promet la mobilité totale et l’échange parfait la concurrence parfaite le tourisme absolu !
 
+#shock
 Je cours et m’écarte… en hurlant… de l’idée d’un corps comme une sorte de machine à maximiser à la fois l’utile et l’agréable !
 
+LE PERSONNAGE DE ROMAN
 Je m’écarte d’une vision hautement technologique du corps tout en y entrant comme un virus… une plaie impure… viscère élémentaire électronique nucléaire quantique qui se propage comme virus JE M’ÉCARTE PUTAIN ET J’ENTRE AVEC MON SANG ! JE M’ÉCARTE d’une vision qui ressemblerait à un composant biotique ou à un sous-système cybernétique de la communication pure ! J’infecte-je-suis !
 
+#shock
 Batarde !
 
+#shock
 JE M’ÉCARTE DU BUT !
 
+#shock
 Impure !
 
+LE PERSONNAGE DE ROMAN
 Je préfère des réseaux qui suggèrent des profusions d’espaces d’identités de perméabilités d’impuretés de porosités entre les frontières des corps personnels corps politique corps mécanico-technologico-vivants !
 
+LE PERSONNAGE DE ROMAN
 Je suis amoureuse
 Des couplages de coalitions les plus imparfaits les plus inédits !...
 Mon amour navigue vers l’ambivalent !
@@ -1263,23 +1390,31 @@ L’impur !
 
 La question :
 
+#shock
 Que veut dire être incarnée de façon inattendue dans des mondes de haute technologie ?
 
+#shock
 A partir de la fragmentation et de la reconstitution surprenante des corps ?
 
+LE PERSONNAGE DE ROMAN
 Je dissous en deuxième main de façon incertaine la dissolution qui cherche à ne pas dissoudre les différences qui opposent nettement organisme et machine !
 
+#shock
 C’est-à-dire quoi ?!...
 
+#shock
 C’est-à-dire que je m’offre des possibilités ?!...
 
+LE PERSONNAGE DE ROMAN
 Le Personnage de Roman s’offre la possibilité d’être sans rapport avec l’idée d’une chute… sans rapport avec l’idée d’une unité qui aurait existé autre fois… avant le langage… avant l’écriture… 
 
+#shock
 … avant l’homme !
 
 #battle
 VINGT-SIXIEME COMBAT.
 
+#scene description
 Les hommes du Colonel apparaissent soudainement, chevauchant des machines volantes.
 Ils lancent une attaque en tournoyant autour de Personnage de Roman.
 Le Personnage de Roman est traversé(e) de part en part.
@@ -1287,17 +1422,19 @@ Sang sur sang.
 Excès de sang.
 Flux.
 
+#shock
 Tout ce que je fais a pour base la vie ! 
 
 Elle chante :
 
+LE PERSONNAGE DE ROMAN
 Déséquili
 Déséquilibrer
 Déséquili
 Déséquilibrer
 Passer passer sur le coté
-Sans aller à l’éternité…
-
+Sans aller à l’éternité
+...
 Continuer 
 À commencer
 Et commencer 
@@ -1308,32 +1445,32 @@ Lâcher
 Lâcher
 Puis traverser
 Le mur 
-N’est pas aussi épais qu’il paraît…
-
+N’est pas aussi épais qu’il paraît
+...
 I feel like a computer
 Je me sens comme un ordinateur
 Avec un cœur
 Dimensionné pour le rire
 Programmé
 Pour empêcher 
-Les choses de mourir !...
-
+Les choses de mourir !
+...
 Corréler ô corréler
 Rechercher 
 Référencer
 Poursuivre plus vite plus vite 
 Jusqu’à la fin des algorithmes
 L’amour 
-N’est pas si éloigné qu’il paraît…
-
+N’est pas si éloigné qu’il paraît
+...
 I feel like a computer
 Je me sens comme un ordinateur
 Avec un cœur
 Dimensionné pour le rire
 Programmé
 Pour empêcher 
-Les choses de mourir !...
-
+Les choses de mourir !
+...
 Ce n’est pas l’affaire du hasard
 Si je laisse ma part à l’aléatoire
 Il y a une chance
@@ -1341,13 +1478,16 @@ Une seule petite chance
 Une chance… une chance… 
 Sur un milliard !
 
+LE PERSONNAGE DE ROMAN
 Les outils du Personnage de Roman sont souvent des histoires… des histoires racontées… des histoires… qu’elle raconte… de nouvelles versions qui déplacent et renversent les dualismes hiérarchiques qui organisent la construction des identités sur les bases d’une soi-disant nature !
 
+LE PERSONNAGE DE ROMAN
 Le Personnage de Roman réécrit d’autres origines qui resteraient mobiles… recode… afin de subvertir !...
 
 #battle
 VINGT-SEPTIEME COMBAT.
 
+#scene description
 Le Personnage de Roman continue de muter.
 Certaines de ses blessures se sont mises à enfler.
 Elles boursoufflent, deviennent énormes, hors de proportions.
@@ -1356,19 +1496,25 @@ Ces projections se transforment en véritables bombes qui explosent.
 Le Colonel et ses hommes sont parfaitement déstabilisés.
 Ils sont évacués du programme.
 
+LE PERSONNAGE DE ROMAN
 Je-est contre la communication parfaite !... 
 Je lutte contre un code unique qui traduirait parfaitement chaque signification !
 
+LE PERSONNAGE DE ROMAN
 Voilà pourquoi je défends le bruit !... Voilà pourquoi je défends la pollution !... Voilà pourquoi je me réjouis des fusions illégitimes entre l’animal et la machine !
 
+LE PERSONNAGE DE ROMAN
 Voilà pourquoi je jouis des accouplements rendant la femme et l’homme problématiques !... Qui subvertissent la structure du désir !...
 Voilà pourquoi je me prends par la main pour m’en aller faire un tour !...
 
+LE PERSONNAGE DE ROMAN
 Voilà pourquoi je quitte ma position privilégiée d’opprimée qui incorpore toutes les dominations !
 Voilà pourquoi je renonce à mon état de victime !...
 
+LE PERSONNAGE DE ROMAN
 Voilà pourquoi j’en ai fini avec les dualismes entre soi et l’autre ! Entre le corps et l’esprit ! Entre la culture et la nature ! La femelle le mâle ! Le civilisé et le primitif ! Entre la réalité et l’apparence ! La partie et le tout ! La ressource et l’agent ! La créature le créateur ! L’actif le passif ! Le faux le vrai ! L’illusion la vérité ! Le partiel total ! Dieu homme !...
 
+#shock
 Voilà pourquoi je hurle !
 Voilà pourquoi je hurle !
 Voilà pourquoi je hurle !
@@ -1377,16 +1523,20 @@ Voilà pourquoi je hurle !
 Voilà pourquoi je hurle !
 Voilà pourquoi je hurle !
 
+#shock
 Voilà pourquoi je quitte le terrain de la nature !...
 
+#shock
 Batarde !
 
 #battle
 VINGT-HUITIEME COMBAT.
 
+#scene description
 Les hommes du Colonel lancent une première mini-offensive nucléaire.
 Le Personnage de Roman prend feu avant de se transformer, dans un bruit assourdissant, en boule noire d’une circonférence d’environ 5 mètres.
 
+#scene description
 La boule sombre et aveugle reste statique, suspendue au-dessus du sol pendant presqu’une minute avant d’exploser.
 Une vibration extraordinaire parcourt la cage.
 De justesse, les hommes du Colonel sont sortis du programme.
@@ -1395,12 +1545,14 @@ Une infinité de particules lumineuses se regroupent, recomposent le nouveau cor
 #battle
 VINGT-NEUVIEME COMBAT.
 
+#scene description
 Un champ électrique surpuissant balaie la cage.
 Le Personnage de Roman hurle, se décomposant, se recomposant sous l’apparence d’un spectre moyenâgeux.
 
 #battle
 TRENTIEME COMBAT.
 
+#scene description
 Un vent noir, surpuissant, balaie la cage par le plafond.
 Un gigantesque laser blanc traverse le haut de la cage, s’abattant sur le Personnage de Roman.
 Des cercles de lumière intense « circonvolutionnent » autour d’une flaque de sang.
@@ -1412,29 +1564,35 @@ Cette manifestation ultime de la vie, au milieu d’un nuage de débris, respire
 #battle
 TRENTE-ET-UNIEME COMBAT.
 
+#scene description
 Le colonel et ses hommes utilisent cette fois « un arsenal anti matière ».
 Le flash lumineux, comme dans un ralenti, laisse apparaitre derrière la peau et la matière organique du Personnage de Roman qui se décomposent dans l’air comme du chewing-gum, le squelette du Personnage de Roman en hombre chinoise.
 Rapidement, ce qu’il reste de vie dans l’air cherche à s’accrocher au squelette du Personnage de Roman pour « se refaire un corps ».
 Le Personnage de Roman ressemble tout à coup à un bébé monstre de dimension gigantesque.
 Elle ne maitrise visiblement pas cette importante étape de sa mutation horrible et terrifiante.
 
+LE PERSONNAGE DE ROMAN
 Je n’ai pas de point de vue privilégié !...
 
 #battle
 TRENTE-DEUXIEME COMBAT.
 
+#scene description
 La plus grande attaque nucléaire jamais imaginée et produite par l’homme est lancée contre le Personnage de Roman qui se met à ressembler instantanément à un œil noir gigantesque, un trou, un collapsar, de la taille de ce qu’il reste de la cage d’origine (la cage, depuis le début du combat, a grandi sous les impacts jusqu’à devenir une grotte anthracite, gazeuse et sombre, d’une quinzaine de kilomètres cube).
 
+LE PERSONNAGE DE ROMAN
 Pas d’histoire du salut !
 Je-se reconnait lui-même comme complètement impliqué dans le monde !
 
 #battle
 TRENTE-TROISIEME COMBAT.
 
+#scene description
 L’œil, à présent, semble fusionner avec lui-même, à l’infini, comme notre soleil, en miniature, puis grossit subitement, puis, trop gros, trop grand, supernova, il s’entrevoit, conscient, au-delà de sa propre limite.
 De l’œil noir, gravitant rapidement au bord de l’œil sombre presque central, le cadavre sanglant du Personnage de Roman, dans sa magnitude absolue, effondrement du cœur, dislocation, cherche encore ses pairs sur le chemin de la vie.
 Dans un ciel qui tombe, forme plus lumineuse de plusieurs ordres de grandeur que les étoiles les plus lumineuses, le Personnage de Roman sort, descend, silencieuse, infiniment, lentement recrachée vers un sol fumant.
 
+#shock
 Voilà pourquoi je hurle : pas de retour à la totalité !
 VOILÀ POURQUOI JE HURLE !
 Pas de retour !...
@@ -1442,6 +1600,7 @@ Voilà pourquoi je hurle !
 Voilà pourquoi je hurle !
 Voilà pourquoi je hurle !
 
+#scene description
 Elle meurt.
 Définitivement.
 Puis.
@@ -1450,6 +1609,7 @@ Elle se relève.
 
 Voilà pourquoi je hurle !
 
+#shock
 V O I L À    P O U R Q U O I    J E    H U R L E    !  . . .
 
 
