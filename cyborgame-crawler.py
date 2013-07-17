@@ -1,6 +1,6 @@
 #! /usr/bin/python
 
-import codecs, collections, pygame, sys
+import codecs, collections, sys #pygame
 #from pygame.locals import *
 
 #pygame.init()
@@ -33,7 +33,7 @@ def crawler(wfile, word, wdict):
 
 ### choose script content to analyse
 
-characters={0:"title", 1:"LE PERSONNAGE DE ROMAN", 2:"LA VOIX", 3:"LE COLONEL", 4:"#SCENE DESCRIPTION", 5:"#shouting", 6:"#battle", 7:"#shock"}
+characters={0:"title", 1:"LE PERSONNAGE DE ROMAN", 2:"LA VOIX", 3:"LE COLONEL", 4:"#scene description", 5:"#shouting", 6:"#battle", 7:"#shock"}
 
 character=raw_input("choose the character/scene: \n0 : titles \n1 : Le Personnage \n2 : La Voix \n3 : Le Colonel \n4 : Scene description \n5 : Shouting (PART 1) \n6 : Battle title \n7 : Shouting (PART 3) \nor type in a word (case sensitive) \n>> ")
 
