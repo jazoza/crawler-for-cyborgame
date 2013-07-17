@@ -1,24 +1,31 @@
-﻿title# C Y B O R G A M E
+﻿title 
+C Y B O R G A M E
 
-title# ou
+ou
 
-title# 33 COMBATS
+title 
+33 COMBATS
 
-title# ou
+ou
 
-title# LE PERSONNAGE DE ROMAN
+title 
+LE PERSONNAGE DE ROMAN
 
-title# (UN DON QUICHOTTE FEMININ HYBRIDE MUTANT)
+title 
+(UN DON QUICHOTTE FEMININ HYBRIDE MUTANT)
 
-author# GILDAS MILIN
+author 
+GILDAS MILIN
 
 
 
 PREMIERE PARTIE
- 
+
+subtitle
 LA CAGE
 
 
+#SCENE DESCRIPTION
 Te souvenir : « Si j’en sors, j’en sortirai plus fort ».
 
 
@@ -58,8 +65,7 @@ Bonjour…
 LUMIERE NEUTRE
 
 
-LE PERSONNAGE DE ROMAN
-(Au sol, reprenant lentement conscience, se levant, cherchant d’où vient la voix) 
+LE PERSONNAGE DE ROMAN (Au sol, reprenant lentement conscience, se levant, cherchant d’où vient la voix) 
 Bonjour…
 
 LA VOIX		
@@ -101,8 +107,7 @@ NOIR
 LUMIERE FAIBLE
 
 
-LE PERSONNAGE DE ROMAN
-(Seul(e), chuchotant, cherchant à se souvenir)
+#shouting LE PERSONNAGE DE ROMAN (Seul(e), chuchotant, cherchant à se souvenir)
 Contrôle UNDER SCORE… 
 Optimisation sous système SLASH SLASH SLASH ERASE SLASH	Ingénierie de communication…
 SLASH UNDER SCORE ERASE biologie…
@@ -184,8 +189,7 @@ NOIR
 LUMIERE FAIBLE
 
 
-LE PERSONNAGE DE ROMAN
-(Chuchotant)
+#shouting LE PERSONNAGE DE ROMAN (Chuchotant)
 Mutation SLASH SLASH ERASE ZERO SLASH
 XXTC RS WORLD XXTC XXTC WOOT WOOT WOOT WOOOOOOOO…
 Plus rapide XX UNDER SCORE ERASE XHTTD plus vite…
@@ -242,8 +246,7 @@ LUMIERE SOMBRE
 #SCENE DESCRIPTION
 Le Personnage de Roman donne l’impression de se parler à lui/elle-même ou à une entité absente à qui elle enverrait clairement des informations secrètes.
 
-LE PERSONNAGE DE ROMAN
-(Toujours chuchotant)
+#shouting LE PERSONNAGE DE ROMAN (Toujours chuchotant)
 UNDER SCORE 
     Stress…
  SLASH
@@ -261,10 +264,13 @@ NOOBIE BUG NOOBIE IMPUR… IMPUR IMPUR IMPUR…
  Continuer contrôle optimisation immunologie…
 	
 (Hurlant)
+
+#shouting
 LE CHOC DU FUTUR !
 LE CHOC DU FUTUR !
 LE CHOC DU FUTUR !
 
+#shouting
 Sous système ingénierie	de communication SLASH stress
 ZERO ZERO XXTC UNIVERSAL’S ROBOTS
 Five one one seven five one XXYC XCQ
@@ -282,6 +288,7 @@ XXtC XXtC UNDER SCORE
 Passer sur le côté…
 Eviter…
 
+#shouting
 LE CHOC DU FUTUR !
 
 
@@ -316,7 +323,8 @@ LUMIERE NEUTRE
 
 LA VOIX		
 Normal je suppose… je suis ce qu’on appelle une « enrhumée »… 
-(Produisant la plus grande déclaration d’amour possible) 
+
+LA VOIX (Produisant la plus grande déclaration d’amour possible) 
 je suis votre vraie « enrhumée »… vous savez c’est pour ça qu’ils m’ont sélectionnée… je suis votre « hyper enrhumée » si tu veux… vous ne vous souvenez pas ?... Une hyper « fan-acheteuse » totale si vous préférez… une hyper fan… j’ai dépensé tout ce que j’avais tout… vous chantiez vos chansons… j’étais probablement une ado parmi tant d’autres… mais c’était bien plus que « touchant » pour moi… vous comprenez… vous avez ce « truc » comme on dit… vous n’êtes pas un de ces putains d’« Agents Récréatifs »…
 
 LE PERSONNAGE DE ROMAN
@@ -328,7 +336,7 @@ NOIR
 LUMIERE SOMBRE
 
 
-LE PERSONNAGE DE ROMAN
+#shouting LE PERSONNAGE DE ROMAN
 Simulation bruit bruit… 
 Limite navigation peur gestion de la peur navigation… encore !...
 Corréler corréler… 
@@ -336,10 +344,12 @@ Passer sur le côté…
 ERASE 
 Five five caresser…
   
+#shouting
 LE CHOC DU FUTUR !
 LE CHOC DU FUTUR !
 LE CHOC DU FUTUR !
 
+#shouting
 Champs des différences virus citoyenneté principe féminin couplé… Animal couplé…
 Virus hybride couplé animal machine maison électronique… 
 Usine planétaire pénétrer... 
@@ -349,8 +359,10 @@ TOTAL FEEDBACK BAISERS GRANDS BAISERS WOOT WOOOOOOOO
 Personnalité du circuit intégré de simulation… 
 Intégrer… aimer…
 
+#shouting
 LE CHOC DU FUTUR ! 
 
+#shouting
 Au secours ! Silence !... 
 Alerte intelligence !...
 Alerte intelligence… personnalité du circuit intégré de simulation…
@@ -643,8 +655,8 @@ Temps.
 
 LE COLONEL
 Je ne suis pas non plus persuadé que vous soyez coupable à cent pour cent… mais votre mutation est très avancée… et ma responsabilité est plus grande que moi… 
-(Avec courtoisie, humour) 
-LE COLONEL
+
+LE COLONEL(Avec courtoisie, humour) 
 Exécution du programme… 
 
 LE PERSONNAGE DE ROMAN
@@ -679,22 +691,19 @@ NOIR
 
 LUMIERES MOUVANTES
 
-
+#SCENE DESCRIPTION
 Le Personnage de Roman attend.
 Inquiétudes.
 Elle ne sait pas d’où viendra la première attaque.
 Elle se prépare, sans savoir ni à quoi ni comment.
 
-LE PERSONNAGE DE ROMAN
-(Sa peau s’allumant et vibrant par endroits) 
+LE PERSONNAGE DE ROMAN (Sa peau s’allumant et vibrant par endroits) 
 Implantations
-
 vecteurs-virus
-
 Microélectronique
-
 Surface	immunologie optimisation contrôle optimisation sous système	ingénierie de communication…
 
+#battle
 PREMIER COMBAT.
 
 Les hommes du Colonel entrent ou plutôt apparaissent dans la cage.
@@ -712,6 +721,7 @@ Elle s’écrase contre un mur.
 LE CHOC DU FUTUR…
 Huuh !...
 
+#battle
 DEUXIEME COMBAT.
 
 C’est une course rapide et un choc bref ultra violent entre les forces de l’ordre et le Personnage de Roman.
@@ -729,6 +739,7 @@ LE CHOC DU FUTUR !
 
 Peur navigation espions stress gestion de la peur alerte espions !
 
+#battle
 TROISIEME COMBAT.
 
 C’est à nouveau une course qui s’enchaine avec un combat à mains nues entre trois des hommes du Colonel  et le Personnage de Roman.
@@ -756,6 +767,7 @@ Ca ne pourra pas durer longtemps comme ça speed huuh !
 Je n’y arrivais pas c’est pour ça !...
 Huuh !
 
+#battle
 QUATRIEME COMBAT.
 
 Mains nues.
@@ -775,12 +787,14 @@ réplication réplication
 réplication réplication 
 réplication réplication
 
+#battle
 CINQUIEME COMBAT.
 
 Huuh ! Prends-ça ! Huuh !
 
 Huuh !
 
+#battle
 SIXIEME COMBAT.
 
 Mains nues, coups de matraque dans le dos et l’arrière du crâne du Personnage de Roman.
@@ -801,6 +815,7 @@ On aurait pu regarder
 
 Un principe puissant a du me faire prendre conscience que je n’arrivais pas non je n’y arrivais pas et c’était pourtant exactement ce qu’il fallait pour que ça commence je n’y arrivais pas et ça c’était parfait pour que ça commence pour un commencement on est d’accord c’était parfait	en tout cas aussi parfait que possible pour moi à ce moment-là oui j’y avais pensé mais je n’y n’arrivais pas et c’était donc très proche d’être parfait pour commencer
 
+#battle
 SEPTIEME COMBAT.
 
 Tout le groupe du Colonel repoussé d’une seule main par le Personnage de Roman.
@@ -815,6 +830,7 @@ Il frappe.
 
 Huuh !
 
+#battle
 HUITIEME COMBAT.
 
 Deux blocs contre un.
@@ -846,13 +862,14 @@ FEEDBACK ! FUCK !
 Huuh !
 Huuh !...
 
+#battle
 NEUVIEME COMBAT.
 
 Sorte de Karaté archaïque, magique, ancien.
 
 Amélioration stress stress stress gestion du speed alerte gestion assistance contre-logique du speed stress stress intelligence…
 
-
+#battle
 DIXIEME COMBAT.
 
 Tout à coup, du sang à nouveau.
@@ -877,6 +894,7 @@ LE VOILA LE PERSONNAGE DE ROMAN !
 
 Huuh !
 
+#battle
 ONZIEME COMBAT.
 
 Hurlement du groupe armé qui fonce et fait voler son adversaire.
@@ -905,6 +923,7 @@ Des flux dominants
 		Alors que tout ce passait à merveille ou pas loin !...
 Huuh ! Prends-ça !
 
+#battle
 DOUZIEME COMBAT.
 
 Choc entre les blocs.
@@ -915,6 +934,7 @@ La question aujourd’hui c’est : est-ce qu’il aurait fallu améliorer quel
 
 Huuh ! Prends ça !
 
+#battle
 TREIZIEME COMBAT.
 
 Le personnage de Roman fonce sur ses adversaires.
@@ -925,6 +945,7 @@ Elle se reprend.
 Se calme.
 Huuh !
 
+#battle
 QUATORZIEME COMBAT.
 
 Un gaz.
@@ -938,17 +959,21 @@ LA VOILA LA PETITE FILLE MECANIQUE ANIMALE !
 AVEC SON CŒUR QUI BAT DANS SA CAGE ! 
 ENGAGEE DANS LA CHAINE SANS BORDS SANS REFLETS DES EFFETS ET DES CAUSES !
 
+#battle
 QUINZIEME COMBAT.
 
+#SCENE DESCRIPTION
 De son immobilité, le Personnage de Roman, créé un double mobile qui se mobilise, s’engage, à nouveau, de façon infinie, dans le combat.
 Quelque chose tombe ou se relâche.
 Le Personnage de Roman se « re-narcissise », se retrouve. 
 
+LE PERSONNAGE DE ROMAN
 Huuh !
 Lâche-ça !
 Lâche-moi !
 Ah !...
 
+#battle
 SEIZIEME COMBAT.
 
 Les hommes du Colonel se regroupent, agencent plusieurs éléments entre eux : c’est une petite bombe technoïde.
@@ -957,8 +982,8 @@ Explosion.
 Nuage de fumée toxique.
 Le Personnage de Roman apparait comme un charbon noir, debout, idiote, toussant au milieu d’une fumée qui se disperse, vaporisée par son corps autant que par la cage, dont des pans entiers s’écroulent.
 
-LE PERSONNAGE DE ROMAN
-(Riant) 
+
+LE PERSONNAGE DE ROMAN (Riant) 
 Alors ça a commencé comme il fallait je crois j’ai commencé à imaginer que j’étais un autre être que l’être que j’étais un être doté d’autres aptitudes d’autres pouvoirs que les miens…	
 
 LE PERSONNAGE DE ROMAN
@@ -983,6 +1008,7 @@ LE VOILA LE PERSONNAGE DE ROMAN   !
 
 HUUH !    PRENDS-CA !...
 
+#battle
 DIX-SEPTIEME COMBAT.
 
 Le Personnage de Roman devient elle-même une bombe.
@@ -1023,6 +1049,7 @@ Et je dis qu’il n’y a plus de frontières entre la science-fiction et la ré
 Bruit limite stress gestion du stress
 Les connexions réelles sont toujours partielles !
 
+#battle
 DIX-HUITEME COMBAT.
 
 Les hommes du Colonel utilisent une sorte de canon à fluide.
@@ -1033,6 +1060,7 @@ Elle ne renonce pas.
 
 Prends-ça !
 
+#battle
 DIX-NEUVIEME COMBAT.
 
 Le Personnage de Roman, sous l’effet d’une arme invisible, devient une boule de sang froid, lourde comme de l’huile.
@@ -1054,6 +1082,7 @@ Huuh !... Prends-ça !...
 
 L E    C H O C    D U    F U T U R     !
 
+#battle
 VINGTIEME COMBAT.
 
 Tristesse.
@@ -1098,6 +1127,7 @@ JE N’AI PAS DE SOUVENIRS DU COSMOS !
 Je ne suis plus cette légère trace sans cesse retracée qui interprète ses rêves de certitude je suis celle qui fredonne des signaux d’ondes électromagnétiques de section de spectre d’éventualités dangereuses de frontières effondrées transgressées de caresses qui fédèrent efficacement des stratégies de contestations !
 
 (Hurlant) 
+
 Le voilà le personnage de roman !
 
 Qui n’attend plus que son père la sauve en restaurant le jardin originel !
@@ -1130,6 +1160,7 @@ C’est tout !
 
 Je lutte pour la parole !
 
+#battle
 VINGT-ET-UNIEME COMBAT.
 
 Démographie optimisation sous système	ingénierie de communication		biologie	bruit	limite	composant biotique
@@ -1149,6 +1180,7 @@ Néo-réalité augmentée !...
 Connexions virtuelles réelles !...
  Partielles !... Toujours !...
 
+#battle
 VINGT-DEUXIEME COMBAT.
 
 Les hommes du Colonel utilisent à présent des lames volantes.
@@ -1160,6 +1192,7 @@ Une sorte de puits de lumière sans lumière apparait.
 On pouvait attendre des stratégies de contrôle qu’elles se concentrent sur les conditions aux limites et sur les interfaces ou sur les taux des flux transversaux et non sur l’intégrité d’ « objets naturels » !...
 Mais c’est bien sur l’intégrité ou la sincérité du « moi » ! Que s’engageaient les procédures décisionnelles et les systèmes experts !
 
+#battle
 VINGT-TROISIEME COMBAT.
 
 Je pressens la disparition pure et simple des corps !
@@ -1175,6 +1208,7 @@ Oh ! Les gens !
 Les gens !
 Oh comme j’aime les gens !
 
+#battle
 VINGT-QUATRIEME COMBAT.
 
 Un déchainement de Basou kas, de grenades, décollent, arrachent par endroits la peau cybernétique du Personnage de Roman qui hurle.
@@ -1193,6 +1227,7 @@ LE PERSONNAGE DE ROMAN
 Personnage !
 (Fragile !)
 
+#battle
 VINGT-CINQUIEME COMBAT.
 
 Le Personnage de Roman prend un instant la forme d’un nuage sombre avec de petites flammèches lumineuses.
@@ -1242,6 +1277,7 @@ Le Personnage de Roman s’offre la possibilité d’être sans rapport avec l�
 
 … avant l’homme !
 
+#battle
 VINGT-SIXIEME COMBAT.
 
 Les hommes du Colonel apparaissent soudainement, chevauchant des machines volantes.
@@ -1309,7 +1345,7 @@ Les outils du Personnage de Roman sont souvent des histoires… des histoires ra
 
 Le Personnage de Roman réécrit d’autres origines qui resteraient mobiles… recode… afin de subvertir !...
 
-
+#battle
 VINGT-SEPTIEME COMBAT.
 
 Le Personnage de Roman continue de muter.
@@ -1345,6 +1381,7 @@ Voilà pourquoi je quitte le terrain de la nature !...
 
 Batarde !
 
+#battle
 VINGT-HUITIEME COMBAT.
 
 Les hommes du Colonel lancent une première mini-offensive nucléaire.
@@ -1355,11 +1392,13 @@ Une vibration extraordinaire parcourt la cage.
 De justesse, les hommes du Colonel sont sortis du programme.
 Une infinité de particules lumineuses se regroupent, recomposent le nouveau corps du Personnage de Roman.
 
+#battle
 VINGT-NEUVIEME COMBAT.
 
 Un champ électrique surpuissant balaie la cage.
 Le Personnage de Roman hurle, se décomposant, se recomposant sous l’apparence d’un spectre moyenâgeux.
 
+#battle
 TRENTIEME COMBAT.
 
 Un vent noir, surpuissant, balaie la cage par le plafond.
@@ -1370,6 +1409,7 @@ Cette matière en fusion se déplace rapidement au sol.
 Ruisseau.
 Cette manifestation ultime de la vie, au milieu d’un nuage de débris, respire encore. 
 
+#battle
 TRENTE-ET-UNIEME COMBAT.
 
 Le colonel et ses hommes utilisent cette fois « un arsenal anti matière ».
@@ -1380,6 +1420,7 @@ Elle ne maitrise visiblement pas cette importante étape de sa mutation horrible
 
 Je n’ai pas de point de vue privilégié !...
 
+#battle
 TRENTE-DEUXIEME COMBAT.
 
 La plus grande attaque nucléaire jamais imaginée et produite par l’homme est lancée contre le Personnage de Roman qui se met à ressembler instantanément à un œil noir gigantesque, un trou, un collapsar, de la taille de ce qu’il reste de la cage d’origine (la cage, depuis le début du combat, a grandi sous les impacts jusqu’à devenir une grotte anthracite, gazeuse et sombre, d’une quinzaine de kilomètres cube).
@@ -1387,6 +1428,7 @@ La plus grande attaque nucléaire jamais imaginée et produite par l’homme est
 Pas d’histoire du salut !
 Je-se reconnait lui-même comme complètement impliqué dans le monde !
 
+#battle
 TRENTE-TROISIEME COMBAT.
 
 L’œil, à présent, semble fusionner avec lui-même, à l’infini, comme notre soleil, en miniature, puis grossit subitement, puis, trop gros, trop grand, supernova, il s’entrevoit, conscient, au-delà de sa propre limite.
