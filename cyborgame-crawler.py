@@ -86,13 +86,23 @@ while True:
             fout = codecs.open("crawler_for_subtitler.txt", "w", encoding="utf-8")
             print 'will write to "crawler_for_subtitler.txt"'
             the_line=lookfordictOrder[key]
-            for i, word in enumerate(the_line.split(), 1):
-                if i%3:
-                    print word,
-                    fout.write(word+' ')
-                else:
-                    print word
-                    fout.write(word+'\n')
+            if lookfor=="LA VOIX":
+                print "to display SECONDE PARTIE only, choose dialogues from 33 to 60"
+                for i, word in enumerate(the_line.split(), 1):
+                    if i%5:
+                        print word, 
+                        fout.write(word+' ')
+                    else:
+                        print word
+                        fout.write(word+'\n')
+            else:
+                for i, word in enumerate(the_line.split(), 1):
+                    if i%2:
+                        print word,
+                        fout.write(word+' ')
+                    else:
+                        print word
+                        fout.write(word+'\n')
     #        fout.write('pisao sam')
     #        print 'updated crawler_for_subtitler.txt', the_line
             fout.close()
