@@ -33,9 +33,9 @@ def crawler(wfile, word, wdict):
 
 ### choose script content to analyse
 
-characters={1:"LE PERSONNAGE DE ROMAN", 2:"LA VOIX", 3:"LE COLONEL", 4:"#SCENE DESCRIPTION", 5:"LUMIERE"}
+characters={0:"title", 1:"LE PERSONNAGE DE ROMAN", 2:"LA VOIX", 3:"LE COLONEL", 4:"#SCENE DESCRIPTION", 5:"#shouting", 6:"#battle", 7:"#shock"}
 
-character=raw_input("choose the character/scene: \n1 : Le Personnage \n2 : La Voix \n3 : Le Colonel \n4 : Scene intro \n5 : Atmosphere \nor type in a word (case sensitive) \n>> ")
+character=raw_input("choose the character/scene: \n0 : titles \n1 : Le Personnage \n2 : La Voix \n3 : Le Colonel \n4 : Scene description \n5 : Shouting (PART 1) \n6 : Battle title \n7 : Shouting (PART 3) \nor type in a word (case sensitive) \n>> ")
 
 try:
     lookfor=characters[eval(character)]
@@ -58,9 +58,11 @@ lookfordictOrder = collections.OrderedDict(sorted(lookfordict.items()))
 while True:
     if any(lookfordict.values()):
         print 'you have', len(lookfordict), 'scenes'
+        if lookfor=="LA VOIX":
+            print "to display SECONDE PARTIE only, choose dialogues from 33 to 60"
         
 #the choice of the scene here:
-        display=raw_input('which scene do you want to print?\n(to exit, press "ESC"\n)')
+        display=raw_input('which scene do you want to print?\n(to exit, press "ESC")\n')
         try:
             selection=eval(display)-1
         except NameError or SyntaxError:
@@ -101,10 +103,11 @@ while True:
 
 """
 TODO
-! split line into three lines, write that to the file!!!
-part1: titles, descriptions, characters: improvise, slash lines (#SHOUTING)
-+ follow a person
 part2: LA VOIX, chronologically; (starts with line 433, choose dialogues from 33 to 60; 
 how much text appears? 
 part3: combat titles, descriptions, WHAT IS WRITTEN IN BIG, +++
+
+DONE
+part1: titles, descriptions, characters: improvise, slash lines (#SHOUTING)
++ follow a person
 """
