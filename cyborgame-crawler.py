@@ -94,10 +94,11 @@ while True:
                 fout.write(the_line)
                 breaklines(the_line, fout_wrap, 5)
                 for j in range(int(saucisson)):
+                    print j
                     next_line=lookfordictOrder[it.next()]
                     print 'to fout_multiline', next_line
                     print "----"
-                    fout_multiline.write(next_line)
+                    breakline(next_line, fout_multiline, 6)
                     fout_multiline.write("\n")
                 
                 print 'wrote the', selection, 'st/nd/rd line to "crawler_for_subtitler.txt"'
