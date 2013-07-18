@@ -18,7 +18,7 @@ while True:
         if gonext=="x":
             i+=1
             if line[:1]!="#":
-                    saucisson += line.strip() + "\n"
+                    saucisson += line.strip().upper() + "\n"
             if i%4 == 0:
                 fout=codecs.open("out.txt", "w", encoding="utf-8") 
                 fout.write(saucisson)
