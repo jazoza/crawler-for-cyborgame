@@ -78,31 +78,38 @@ while True:
         saucisson=raw_input('how many lines: ')
     
 # iterates through the ordered dictionary:
+    it = iter(lookfordictOrder)
     for i, key in enumerate(lookfordictOrder):
-        it = iter(lookfordictOrder)
-        if i == selection:
-            fout = codecs.open("crawler_for_subtitler.txt", "w", encoding="utf-8")
-            fout_multiline = codecs.open("multiline_crawler_for_subtitler.txt", "w", encoding="utf-8")
-            fout_wrap = codecs.open("wrapped_crawler_for_subtitler.txt", "w", encoding="utf-8")
-            #print key
-            the_line=lookfordictOrder[key] 
-            print 'to fout', the_line
-            fout.write(the_line)
-            breaklines(the_line, fout_wrap, 2)
-            for j in range(int(saucisson)):
-                next_line=lookfordictOrder[it.next()]
-                print 'to fout_multiline', next_line
-                print "----"
-                fout_multiline.write(next_line)
-                fout_multiline.write("\n")
-            
-            print 'wrote the', selection, 'st/nd/rd line to "crawler_for_subtitler.txt"'
-            print 'wrote the', selection, 'line and the', saucisson, ' consecutive line(s) to "multiline_crawler_for_subtitler.txt"'
-            print 'wrote the first line wrapped to "wrapped_crawler_for_subtitler.txt"'
-            fout.close()
-            fout_multiline.close()
-            fout_wrap.close()
-    
+        try:
+            #print iter(lookfordictOrder[key])
+            it.next()
+            #print 'next', it.next()
+            if i == selection:
+                fout = codecs.open("crawler_for_subtitler.txt", "w", encoding="utf-8")
+                fout_multiline = codecs.open("multiline_crawler_for_subtitler.txt", "w", encoding="utf-8")
+                fout_wrap = codecs.open("wrapped_crawler_for_subtitler.txt", "w", encoding="utf-8")
+                #print key
+                the_line=lookfordictOrder[key] 
+                print 'to fout', the_line
+                fout.write(the_line)
+                breaklines(the_line, fout_wrap, 5)
+                for j in range(int(saucisson)):
+                    next_line=lookfordictOrder[it.next()]
+                    print 'to fout_multiline', next_line
+                    print "----"
+                    fout_multiline.write(next_line)
+                    fout_multiline.write("\n")
+                
+                print 'wrote the', selection, 'st/nd/rd line to "crawler_for_subtitler.txt"'
+                print 'wrote the', selection, 'line and the', saucisson, ' consecutive line(s) to "multiline_crawler_for_subtitler.txt"'
+                print 'wrote the first line wrapped to "wrapped_crawler_for_subtitler.txt"'
+                fout.close()
+                fout_multiline.close()
+                fout_wrap.close()
+        except StopIteration:
+            continue
+
+
 
 """
 TODO
