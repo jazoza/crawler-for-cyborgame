@@ -1,6 +1,7 @@
 #! /usr/bin/python
 
 import codecs, collections, sys #pygame
+import itertools
 #from pygame.locals import *
 
 #pygame.init()
@@ -8,7 +9,6 @@ import codecs, collections, sys #pygame
 
 try:
     fin = codecs.open("CYBORGAME.txt", "r", encoding="utf-8")
-    fout_oneliner = codecs.open("crawler_oneliner.txt", "w", encoding="utf-8")
     try:
         script = fin.readlines()
     finally:
@@ -21,7 +21,6 @@ def crawler(wfile, word, wdict):
     stopper=''
     for i, line in enumerate(wfile):
         if key_found and line.strip()!=stopper:
-            fout_oneliner.write(line.strip().upper()+"\t\t\t\t",)
             wdict[i]=line.strip().upper()
         elif line.startswith(word):
             key_found=True
@@ -42,9 +41,9 @@ def breaklines(line, filez, n):
 
 ### choose script content to analyse
 
-characters={0:"title", 1:"LE PERSONNAGE DE ROMAN", 2:"LA VOIX", 3:"LE COLONEL", 4:"#scene description", 5:"#shouting", 6:"#battle", 7:"#shock"}
+characters={0:"title", 1:"LE PERSONNAGE DE ROMAN", 2:"LA VOIX", 3:"LE COLONEL", 4:"#scene description", 5:"#shouting", 6:"#battle", 7:"#shock", 8: "#words"}
 
-character=raw_input("choose the character/scene: \n0 : titles \n1 : Le Personnage \n2 : La Voix \n3 : Le Colonel \n4 : Scene description \n5 : Shouting (PART 1) \n6 : Battle title \n7 : Shouting (PART 3) \nor type in a word (case sensitive) \n>> ")
+character=raw_input("choose the character/scene: \n0 : titles \n1 : Le Personnage \n2 : La Voix \n3 : Le Colonel \n4 : Scene description \n5 : Shouting (PART 1) \n6 : Battle title \n7 : Shouting (PART 3) \n8 : SLASH words \nor type in a word (case sensitive) \n>> ")
 
 try:
     lookfor=characters[eval(character)]
@@ -67,43 +66,42 @@ lookfordictOrder = collections.OrderedDict(sorted(lookfordict.items()))
 while True:
     if any(lookfordict.values()):
         print 'you have', len(lookfordict), 'scenes'
-        if lookfor=="LA VOIX":
-            print "to display SECONDE PARTIE only, choose dialogues from 33 to 60"
         
-#the choice of the scene here:
-        display=raw_input('which scene do you want to print?\n(to exit, press "ESC")\n')
+# the choice of the line here:
+        display=raw_input('which line do you want to print?\n(to exit, press "ESC")\n')
         try:
             selection=eval(display)-1
         except NameError or SyntaxError:
             selection=display
-    
-# the choice of the number of lines:
-#        lines=raw_input('how many lines?\n')
-#        try:
-#            n_lines=eval(lines)
-#        except NameError:
-#            n_lines=1
 
+# how many lines to print:
+        saucisson=raw_input('how many lines: ')
     
+# iterates through the ordered dictionary:
     for i, key in enumerate(lookfordictOrder):
-    #print i, key
-        """
-        choose how manuy lines to display simultaneously
-        """
-        if i==selection:
-            print key
+        it = iter(lookfordictOrder)
+        if i == selection:
             fout = codecs.open("crawler_for_subtitler.txt", "w", encoding="utf-8")
-            print 'will write to "crawler_for_subtitler.txt"'
-            the_line=lookfordictOrder[key]
-            if lookfor=="LA VOIX":
-                print "to display SECONDE PARTIE only, choose dialogues from 33 to 60"
-                breaklines(the_line, fout, 5)
-            else:
-                breaklines(the_line, fout, 2)
+            fout_multiline = codecs.open("multiline_crawler_for_subtitler.txt", "w", encoding="utf-8")
+            fout_wrap = codecs.open("wrapped_crawler_for_subtitler.txt", "w", encoding="utf-8")
+            #print key
+            the_line=lookfordictOrder[key] 
+            print 'to fout', the_line
+            fout.write(the_line)
+            breaklines(the_line, fout_wrap, 2)
+            for j in range(int(saucisson)):
+                next_line=lookfordictOrder[it.next()]
+                print 'to fout_multiline', next_line
+                print "----"
+                fout_multiline.write(next_line)
+                fout_multiline.write("\n")
+            
+            print 'wrote the', selection, 'st/nd/rd line to "crawler_for_subtitler.txt"'
+            print 'wrote the', selection, 'line and the', saucisson, ' consecutive line(s) to "multiline_crawler_for_subtitler.txt"'
+            print 'wrote the first line wrapped to "wrapped_crawler_for_subtitler.txt"'
             fout.close()
-        elif selection=='f':
-            print 'forward,', 'key', key
-            the_line=next(lookfordictOrder.itervalues())
+            fout_multiline.close()
+            fout_wrap.close()
     
 
 """
