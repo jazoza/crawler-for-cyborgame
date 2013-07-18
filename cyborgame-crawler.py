@@ -98,7 +98,7 @@ while True:
                     next_line=lookfordictOrder[it.next()]
                     print 'to fout_multiline', next_line
                     print "----"
-                    breakline(next_line, fout_multiline, 6)
+                    breaklines(next_line, fout_multiline, 6)
                     fout_multiline.write("\n")
                 
                 print 'wrote the', selection, 'st/nd/rd line to "crawler_for_subtitler.txt"'
