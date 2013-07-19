@@ -13,11 +13,11 @@ try:
 except IOError:
     pass
 
-wrapping=raw_input("wrap at how many characters?\n(default 48)\n")
+wrapping=raw_input("wrap at how many characters?\n(default 39)\n")
 try:
     to_wrap=eval(wrapping)
 except NameError:
-    to_wrap=48
+    to_wrap=39
 
 for line in fin:
     list_to_write=textwrap.wrap(line, to_wrap)
