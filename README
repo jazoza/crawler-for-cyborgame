@@ -1,4 +1,5 @@
 A simple Python analysis tool for play scripts. It takes a text file as input, and writes a text file as output. 
+Use the cyborgame-crawler.py for this. The results are written to multiline_crawler_for_subtitler.txt
 
 It prompts user for input and searches for the string in the whole text. It can display all lines that a person is saying or all scene introductions. 
 
