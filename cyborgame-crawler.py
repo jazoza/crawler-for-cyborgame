@@ -90,20 +90,20 @@ while True:
                 fout_wrap = codecs.open("wrapped_crawler_for_subtitler.txt", "w", encoding="utf-8")
                 #print key
                 the_line=lookfordictOrder[key] 
-                print 'to fout', the_line
+                print the_line
                 fout.write(the_line)
                 breaklines(the_line, fout_wrap, 5)
                 for j in range(int(saucisson)):
-                    print j
+                    #print j
                     next_line=lookfordictOrder[it.next()]
-                    print 'to fout_multiline', next_line
+                    print next_line
                     print "----"
                     breaklines(next_line, fout_multiline, 5)
                     fout_multiline.write("\n")
                 
-                print 'wrote the', selection, 'st/nd/rd line to "crawler_for_subtitler.txt"'
-                print 'wrote the', selection, 'line and the', saucisson, ' consecutive line(s) to "multiline_crawler_for_subtitler.txt"'
-                print 'wrote the first line wrapped to "wrapped_crawler_for_subtitler.txt"'
+                #print 'wrote the', selection, 'st/nd/rd line to "crawler_for_subtitler.txt"'
+                #print 'wrote the', selection, 'line and the', saucisson, ' consecutive line(s) to "multiline_crawler_for_subtitler.txt"'
+                #print 'wrote the first line wrapped to "wrapped_crawler_for_subtitler.txt"'
                 fout.close()
                 fout_multiline.close()
                 fout_wrap.close()
