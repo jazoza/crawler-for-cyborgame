@@ -2,6 +2,9 @@ A simple Python analysis tool for play scripts. It takes a text file as input, a
 
 It prompts user for input and searches for the string in the whole text. It can display all lines that a person is saying or all scene introductions. 
 
-It should create a dictionary of scene introductions which can be browsed through choronologically.
+It creates a dictionary of scene introductions which can be browsed through choronologically.
 
 Created in SINLAB for the Cyborgame project in collaboration with Gildas Milin, April-July 2013
+
+Licenced under GNU General Public License v3.0 
+http://www.gnu.org/licenses/gpl-3.0.txt
